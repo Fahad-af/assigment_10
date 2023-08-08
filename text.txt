@@ -1,0 +1,9 @@
+.next folder use for deploy. 
+2]public folder use for static property .
+3]scr er app folder use for page and component .
+4]gitignore file use what type of file we are ignore.
+5]next.config file use for next config. 
+6]package.json file use for dependency add.
+7]readme.md file use for who to project build.
+8]tailwind.config css file use for tailwind setup.
+
